@@ -1,0 +1,8 @@
+/dataset/frames/
+/benchmark/results/
+
+**/__pycache__/**
+.idea/
+
+hogsvm/model/
+yolo/model/

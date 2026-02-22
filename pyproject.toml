@@ -1,0 +1,20 @@
+[project]
+name = "branchout"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python==4.11.0.86",
+    "black==25.1.0",
+    "numpy==2.2.6",
+    "scikit-image==0.25.2",
+    "scikit-learn==1.7.2",
+    "imagehash==4.3.2",
+    "pandas==2.3.2",
+    "backend==0.2.4.1",
+    "pandas-stubs==2.3.2.250827",
+    "tqdm==4.67.1",
+    "openvino==2025.3.0",
+    "ultralytics==8.3.203",
+    "scipy-stubs==1.16.2.3",
+]
